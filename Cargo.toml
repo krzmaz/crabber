@@ -1,0 +1,10 @@
+[package]
+name = "crabber"
+version = "0.1.0"
+edition = "2021"
+description = "Frogger clone written in Rust"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+bevy = "0.8.1"
